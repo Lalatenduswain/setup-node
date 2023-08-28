@@ -1,5 +1,10 @@
 #!/bin/bash
 
+sudo apt update && sudo apt upgrade -y
+#sudo apt list --upgradable
+#sudo apt-get autoclean && sudo apt-get autoremove && sudo apt-get clean -y
+#do-release-upgrade
+
 # Install curl
 sudo apt-get install curl
 
