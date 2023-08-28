@@ -50,3 +50,15 @@ By using this script, you can simplify the process of setting up Node.js and spe
 ---
 
 Feel free to modify the README as needed to provide additional context, usage instructions, or any other relevant information.
+
+
+**Note:** Make sure to have the necessary permissions and dependencies set up before running this script.
+
+## Donations
+
+If you want to show your appreciation, you can donate via [Buy Me a Coffee](https://www.buymeacoffee.com/lalatendu.swain)
+
+## Disclaimer
+
+This script is provided as-is and may require modifications or updates based on your specific environment and requirements. Use it at your own risk. The authors of the script are not liable for any damages or issues caused by its usage.
+
